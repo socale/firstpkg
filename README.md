@@ -2,7 +2,7 @@
 firstpkg
 ========
 
-The goal of firstpkg is to create my first package
+The goal of firstpkg is to create my first R package. Very interesting given that I take advantage of this opportunity for used Git andGithub
 
 Example
 -------
