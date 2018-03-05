@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 
 # firstpkg
 
-The goal of firstpkg is to create my first R package. Very interesting given that I take advantage of this opportunity for used Git andGithub
+The goal of firstpkg is to create my first R package. Very interesting given that I take advantage of this opportunity for used Git andGithub. Voici la modification de Camille
 
 ## Example
 
