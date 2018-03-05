@@ -34,6 +34,8 @@ mvnpdf <- function(x, mean =  rep(0, nrow(x)),
   return(list(x=x,y=y))
 }
 
+# nouvelle fonction pour un plot
+
 #' Plot of the mvnpdf function
 #'
 #' @param x an object of class \code{mvnpdf} resulting from a call of
