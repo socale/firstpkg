@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 
 # firstpkg
 
-The goal of firstpkg is to ...
+The goal of firstpkg is to test the creation of my new R package
 
 ## Example
 
