@@ -2,7 +2,7 @@
 firstpkg
 ========
 
-The goal of firstpkg is to test the creation of my new R package
+The goal of firstpkg is to create my first package
 
 Example
 -------
