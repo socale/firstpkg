@@ -2,8 +2,11 @@
 
 S3method(plot,mvnpdf)
 export(mvnpdf)
+export(mvnpdfC)
+export(mvnpdf_invC)
 export(mvnpdfoptim)
 export(mvnpdfsmart)
+export(timesTwo)
 importFrom(Rcpp,sourceCpp)
 importFrom(graphics,plot)
 useDynLib(firstpkg)
