@@ -12,5 +12,5 @@ LazyData: true
 RoxygenNote: 6.0.1
 Suggests: testthat,
     mvtnorm
-LinkingTo: Rcpp
+LinkingTo: Rcpp,RcppArmadillo
 Imports: Rcpp
