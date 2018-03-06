@@ -2,4 +2,6 @@
 
 S3method(plot,mvnpdf)
 export(mvnpdf)
+export(mvnpdfoptim)
+export(mvnpdfsmart)
 importFrom(graphics,plot)
