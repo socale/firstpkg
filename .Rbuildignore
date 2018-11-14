@@ -5,3 +5,4 @@
 ^README-.*\.png$
 ^\.travis\.yml$
 script_execution_des_codes.r
+script_parallele.r
